@@ -1,3 +1,15 @@
-19 year old from South America who's interested into coding.
+# The Creator
+Erial, from South America. 19 years old.
 
-Made cheeseBot, timeBot and vibeBot, working on copingBot.
+Creator of:
+* cheeseBot
+* vibeBot
+* timeBot
+* The Words Project
+
+Working on:
+* copingBot
+
+Updating (frecuently, or not.):
+* cheeseBot
+* The Words Project
