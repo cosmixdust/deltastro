@@ -5,11 +5,11 @@ Creator of:
 * cheeseBot
 * vibeBot
 * timeBot
-* The Words Project
+* Inspire Reload
 
 Working on:
 * copingBot
 
 Updating (frecuently, or not.):
 * cheeseBot
-* The Words Project
+* Inspire Reload
