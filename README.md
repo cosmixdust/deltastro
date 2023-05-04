@@ -10,6 +10,6 @@ Creator of:
 Working on:
 * copingBot
 
-Updating (frecuently, or not.):
+Updating (frequently, or not.):
 * cheeseBot
 * Inspire Reload
